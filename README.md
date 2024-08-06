@@ -1,9 +1,8 @@
-# GRIB-via-inReach
+# OLD README
 I wrote this code to send GRIB wind data over a Garmin inReach during a 14-day passage at sea. It worked great, and I had a comfortable 1600 mile passage from Norfolk to St. Martin. While there are definitely advantages to WeatherFax and IridiumGo, this method for receiving weather data was effective and relatively cheap.
 
 I have received a lot of interest in this, so I am hoping to share my code so that it may be used by fellow sailors and improved by more skilled programmers!
 
-If you'd like to buy me a beer, my venmo is @FinbarC.
 
 ### DISCLAIMER
 
